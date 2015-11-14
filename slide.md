@@ -78,6 +78,7 @@ class: center, middle
 class: center, middle
 
 # 개발환경
+`php artisan down`
 
 Laravel 5.1<br>
 Homestead<br>
@@ -426,7 +427,7 @@ class: center, middle
 
 
 ---
-# 프런트
+# Front
 
 * [Bootstrap](http://getbootstrap.com/), [jQuery](https://jquery.com/)
 * Video player : [videojs](http://www.videojs.com/)
@@ -434,7 +435,7 @@ class: center, middle
 * Task runner : [gulp](http://gulpjs.com/)
 
 ---
-# System
+`php artisan up`
 .center[![:scale 80%](img/system.png)]
 
 ---
@@ -496,3 +497,5 @@ class AttachLogstash
 class: center, middle
 
 # `php artisan serve` 
+
+슬라이드 http://yhbyun.github.io/laravel-video
